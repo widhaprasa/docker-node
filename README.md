@@ -31,5 +31,6 @@ pipeline {
         // Add more stages as needed
     }
 }
+```
 
 Replace <tag> with the specific tag of the Docker image you want to use.
